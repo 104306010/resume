@@ -1,2 +1,1 @@
 # resume
-for MICROSOFT INTERN
